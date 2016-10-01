@@ -1,4 +1,4 @@
-# ng-age
+ng-age
 ---------
 A filter for Angularjs to dynamically display a person's age based on their birthday
 
