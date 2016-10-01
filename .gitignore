@@ -1,0 +1,25 @@
+# general
+.idea
+.editorconfig
+
+.DS_Store
+*~
+.sass-cache
+
+# package control
+node_modules
+client/src/vendor
+bower_components
+
+# logs
+npm-debug.log
+
+# build
+build/tmp
+build/dist
+
+#test
+client/test/screenshots/*
+!client/test/screenshots/README.md
+client/test/unit-results/*
+!client/test/unit-results/README.md
