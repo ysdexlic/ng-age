@@ -1,0 +1,26 @@
+{
+  "name": "ng-age",
+  "description": "an Angular filter to dynamically display a person's age based on their birthday",
+  "version": "1.0.0",
+  "authors": [
+    "David Thompson <david@thebeardydeveloper.com> (http://thebeardydeveloper.com)"
+  ],
+  "main": "./ng-age.js",
+  "dependencies": {
+    "angular": "~1.4.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ysdexlic/ng-age.git"
+  },
+  "keywords": [
+    "angular",
+    "age",
+    "filter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "bower_components"
+  ]
+}
