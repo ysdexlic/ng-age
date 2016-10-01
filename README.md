@@ -7,7 +7,7 @@ Check out the [Demo](http://thebeardydeveloper.com/ng-age).
 Install
 -------
 
-    $ bower install ng-parallax
+    $ bower install ng-age
     
 Dependencies
 ------------
